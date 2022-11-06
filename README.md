@@ -39,16 +39,15 @@ Debug.Print "There were " & longCount & " values that were equally divisible by 
 <br><br>
 **As A Formula**
 You can also use this method as an Excel formula:
-
 <code>=ModulusZero(B12, $A$1)</code>
-
 
 <br><br>
 **To use this method**
-
 You can copy and paste the code into your workbook. You can also download the *.bas file
 and import it into your workbook project.
-<br><br>
 
+<br><br>
+**Known MS Issues with Excel VBA**
+https://github.com/jimmelanson/excel_vba_known_microsoft_issues
 
    
